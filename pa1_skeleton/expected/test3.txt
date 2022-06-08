@@ -1,0 +1,13 @@
+Hello! Which test case do you want to run? 
+Test case 3:
+===================================
+Polynomial 8: "-45"
+Polynomial 9: "90"
+Polynomial 10: "45*x"
+Polynomial 11: "-90*x"
+Polynomial 12: "45*x^2"
+Polynomial 13: "-90*x^2"
+Polynomial 14: "-x"
+Polynomial 15: "x"
+
+===================================

@@ -1,0 +1,8 @@
+Hello! Which test case do you want to run? 
+Test case 20:
+===================================
+p1: "4*x^3 + x^2 + 5"
+p2: "4*x^3 + 2*x^2 + 5"
+compare p1 and p2: -1
+compare p2 and p1: 1
+===================================

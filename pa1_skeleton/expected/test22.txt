@@ -1,0 +1,8 @@
+Hello! Which test case do you want to run? 
+Test case 22:
+===================================
+p1: "5*x^6 - 2*x"
+p2: "5*x^6 - 2*x"
+compare p1 and p2: 0
+compare p2 and p1: 0
+===================================

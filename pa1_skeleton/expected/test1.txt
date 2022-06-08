@@ -1,0 +1,9 @@
+Hello! Which test case do you want to run? 
+Test case 1:
+===================================
+Polynomial 1: "4*x^3 + x^2 + 5"
+Polynomial 2: "4*x^3 + 2*x^2 + 5"
+Polynomial 3: "-7*x^3 + 2*x^2 + 5"
+Polynomial 4: "5*x^3 - 2*x^2 - 5"
+
+===================================
